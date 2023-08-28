@@ -4,7 +4,7 @@ Sure, here's a README based on the provided HTML code for your To-Do List projec
 
 # To-Do List Web App
 
-![To-Do List]
+
 ![icon](https://github.com/sharmachaitanya945/to-do-list/assets/133958233/95ccc583-fae7-4ada-83a9-9d8c962e6afe)
 
 A simple web application for managing y!
@@ -24,7 +24,8 @@ our tasks and to-do items. This project allows you to add and keep track of task
 
 The **To-Do List Web App** provides a user-friendly interface to help you manage your tasks efficiently. You can add new tasks and mark them as completed as you work through your to-do list.
 
-![Screenshot](images/screenshot.png)
+
+![Screenshot (1115)](https://github.com/sharmachaitanya945/to-do-list/assets/133958233/d1601417-a096-4396-a1a5-a15806789a57)
 
 ## Features
 
