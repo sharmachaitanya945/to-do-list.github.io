@@ -76,8 +76,8 @@ This project is licensed under the [MIT License](https://github.com/git/git-scm.
 If you have any questions or suggestions, feel free to reach out to me:
 
 - Email: sharmachaitanya945@email.com
-- Twitter: [@yourusername](https://twitter.com/Chaitanyatweetx)
-- GitHub: [YourUsername](https://github.com/sharmachaitanya945)
+- Twitter: [@Chaitanyatweetx](https://twitter.com/Chaitanyatweetx)
+- GitHub: [sharmachaitanya945](https://github.com/sharmachaitanya945)
 
 ---
 
